@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Apaixonado por HTML, CSS, JavaScript e Python — sempre buscando transformar código em soluções impactantes.<br>💡 Desenvolvedor em constante evolução, explorando novas tecnologias para criar experiências digitais envolventes.<br>🌱 Aprender e crescer é parte do meu dia a dia, construindo um caminho sólido no mundo da programação.<br><br>✨ “Mais que linhas de código, vejo oportunidades de criar algo único e funcional.” ✨<br><br>🔧 Focado em construir projetos que fazem a diferença, com atenção aos detalhes e dedicação.<br>🎯 Meu objetivo: entregar resultados que marquem e inspirem quem os utiliza.</p>
+<p align="left">💻 Apaixonado por HTML, CSS, JavaScript e Python — sempre buscando transformar código em soluções impactantes.<br>💡 Desenvolvedor em constante evolução, explorando novas tecnologias para criar experiências digitais envolventes.<br>🌱 Aprender e crescer é parte do meu dia a dia, construindo um caminho sólido no mundo da programação.<br>✨ “Mais que linhas de código, vejo oportunidades de criar algo único e funcional.” ✨<br>🔧 Focado em construir projetos que fazem a diferença, com atenção aos detalhes e dedicação.<br>🎯 Meu objetivo: entregar resultados que marquem e inspirem quem os utiliza.</p>
 
 ###
 
